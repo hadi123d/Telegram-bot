@@ -7,3 +7,5 @@ pip install python-telegram-bot
 pip install telethon
 
 pip install pyTelegramBotAPI
+
+pause
